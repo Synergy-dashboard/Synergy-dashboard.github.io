@@ -1,1 +1,0 @@
-# Synergy-dashboard.github.io
